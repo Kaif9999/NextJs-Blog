@@ -1,0 +1,35 @@
+{
+  "title": "Blog One Title",
+  "publishedAt": "2024-10-28T00:00:00.000Z",
+  "updatedAt": "2024-11-01T00:00:00.000Z",
+  "description": "This is the discription for blog one",
+  "image": {
+    "filePath": "../public/blogs/emile-perron-xrVDYZRGdw4-unsplash.jpg",
+    "relativeFilePath": "../../public/blogs/emile-perron-xrVDYZRGdw4-unsplash.jpg",
+    "format": "jpeg",
+    "height": 1080,
+    "width": 1920,
+    "aspectRatio": 1.7777777777777777,
+    "blurhashDataUrl": "data:image/jpeg;base64,/9j/2wBDAAoHBwgHBgoICAgLCgoLDhgQDg0NDh0VFhEYIx8lJCIfIiEmKzcvJik0KSEiMEExNDk7Pj4+JS5ESUM8SDc9Pjv/2wBDAQoLCw4NDhwQEBw7KCIoOzs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozv/wAARCAAIAAgDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAAAAP/xAAcEAABBQADAAAAAAAAAAAAAAACAAEDBAYRIUH/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAf/EABYRAQEBAAAAAAAAAAAAAAAAAAARAf/aAAwDAQACEQMRAD8Agewigzxx17BVrtcXGMm7YibzlERWYV//2Q=="
+  },
+  "isPublished": true,
+  "author": "CodeBucks",
+  "tags": [
+    "productivity",
+    "css"
+  ],
+  "body": {
+    "raw": "#this is fist blog\n",
+    "html": "<p>#this is fist blog</p>"
+  },
+  "_id": "blog-one/index.mdx",
+  "_raw": {
+    "sourceFilePath": "blog-one/index.mdx",
+    "sourceFileName": "index.mdx",
+    "sourceFileDir": "blog-one",
+    "contentType": "mdx",
+    "flattenedPath": "blog-one"
+  },
+  "type": "Blog",
+  "url": "/blogs/blog-one"
+}
